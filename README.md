@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+</picture>
 <!--
 **ded3v/ded3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

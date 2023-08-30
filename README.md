@@ -6,7 +6,7 @@
 
     <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://linkedin.com/in/andré-costa-b11917239" target="_blank"><img align="center" src="https://github.com/ded3v/dedd3v/blob/master/linkedin.png?raw=true" alt="ded3v" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/andré-costa-b11917239" target="_blank"><img align="center" src="https://github.com/ded3v/ded3v/blob/main/linkedin.png?raw=true" alt="ded3v" height="30" width="40" /></a>
        </a>
 </p>
 

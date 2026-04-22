@@ -1,7 +1,7 @@
 ### Hi there Developers 👋 I'm André Costa
 
 - 🔭 I’m currently working on make a career transition to Software Developer
-- 🌱 I've already take a look on Ruby and some framework on rails, Python and javascript
+- 🌱 I've already take a look on Ruby and some framework on rails, Python and javascript, and studying more... 
 - 👯 I’m looking to collaborate on a company to get start
 
     <p align="left">

@@ -10,10 +10,12 @@
        </a>
 </p>
 
-```ruby 
-class Programmer
+```javascript
+class Programmer {
+   constructor() {
 
-	def initialize() 
+   }
+}
 ```
 
 
